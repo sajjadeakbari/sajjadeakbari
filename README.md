@@ -75,8 +75,6 @@
 اگر به همکاری در پروژه‌ای علاقه‌مند هستید، یا نیاز به مشاوره در زمینه برنامه‌نویسی فول‌استک و سئو دارید، خوشحال می‌شوم با من در ارتباط باشید.
 
 *   **پروفایل گیت‌هاب:** [sajjadeakbari](https://github.com/sajjadeakbari)
-*   **ایمیل:** [sajjad.akbari@example.com](mailto:sajjad.akbari@example.com) *(ایمیل واقعی خود را اینجا وارد کنید)*
-*   **لینکدین:** [Sajjad Akbari on LinkedIn](https://www.linkedin.com/in/sajjadeakbari/) *(لینک پروفایل لینکدین خود را اینجا وارد کنید)*
 
 ---
 
