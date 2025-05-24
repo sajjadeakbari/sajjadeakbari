@@ -1,5 +1,5 @@
 <div align="center" style="padding: 20px; background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); border-radius: 20px; box-shadow: 0 15px 30px rgba(0,0,0,0.1);">
-  <img src="https://raw.githubusercontent.com/sajjadeakbari/sajjadeakbari/main/assets/banner.png" alt="بنر پروفایل سجاد اکبری - توسعه‌دهنده فول‌استک و متخصص سئو" style="width:100%; max-width:850px; border-radius:15px; box-shadow: 0 10px 25px rgba(0,0,0,0.15); margin-bottom: 25px;">
+  <img src="main/assets/banner.png" alt="بنر پروفایل سجاد اکبری - توسعه‌دهنده فول‌استک و متخصص سئو" style="width:100%; max-width:850px; border-radius:15px; box-shadow: 0 10px 25px rgba(0,0,0,0.15); margin-bottom: 25px;">
   <h1 style="font-family: 'Vazirmatn', sans-serif; font-size: clamp(2.5rem, 5vw, 3.5rem); margin-top: 20px; color: #1a2a6c; text-shadow: 2px 2px 4px rgba(0,0,0,0.1);">سلام! من سجاد اکبری هستم 👋</h1>
   <p style="font-family: 'Vazirmatn', sans-serif; font-size: clamp(1.2rem, 3vw, 1.6rem); color: #2c3e50; font-weight: 500;">
     <strong>معمار راه‌حل‌های دیجیتال | متخصص استراتژی‌های پیشرفته سئو | پیشگام در ابزارهای هوشمند</strong>
