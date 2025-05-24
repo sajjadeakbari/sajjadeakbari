@@ -1,5 +1,5 @@
 <div align="center" style="padding: 25px 20px; background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); border-radius: 20px; box-shadow: 0 15px 30px rgba(0,0,0,0.1);">
-  <img src="https://raw.githubusercontent.com/sajjadeakbari/sajjadeakbari/main/assets/banner.png" alt="بنر پروفایل سجاد اکبری - توسعه‌دهنده فول‌استک و متخصص سئو" style="width:100%; max-width:850px; border-radius:15px; box-shadow: 0 10px 25px rgba(0,0,0,0.15); margin-bottom: 25px;">
+  <img src="main/assets/banner.png" alt="بنر پروفایل سجاد اکبری - توسعه‌دهنده فول‌استک و متخصص سئو" style="width:100%; max-width:850px; border-radius:15px; box-shadow: 0 10px 25px rgba(0,0,0,0.15); margin-bottom: 25px;">
   <h1 style="font-family: 'Vazirmatn', sans-serif; font-size: clamp(2.5rem, 5vw, 3.5rem); margin-top: 20px; color: #1a2a6c; text-shadow: 2px 2px 4px rgba(0,0,0,0.1);">سلام! من سجاد اکبری هستم 👋</h1>
   <p style="font-family: 'Vazirmatn', sans-serif; font-size: clamp(1.2rem, 3vw, 1.6rem); color: #2c3e50; font-weight: 500;">
     <strong>معمار راه‌حل‌های دیجیتال | متخصص استراتژی‌های پیشرفته سئو | پیشگام در ابزارهای هوشمند</strong>
@@ -24,21 +24,65 @@
   <div style="line-height: 1.9; font-size: clamp(1rem, 2.5vw, 1.12rem); color: #34495e;">
     <p align="right" style="line-height: 1.85; color: #34495e;">
     شور و اشتیاق من در نقطه تلاقی کدنویسی پاک (Clean Code)، معماری نرم‌افزار مقیاس‌پذیر و استراتژی‌های سئوی آینده‌نگر شکوفا می‌شود. عمیقاً باور دارم که یک محصول دیجیتال موفق، فراتر از کارایی فنی بی‌عیب و نقص، باید بتواند با مخاطبان خود به زبان آن‌ها سخن گفته و در کهکشان وسیع وب <strong>به آسانی کشف و تجربه شود</strong>. این نگرش ۳۶۰ درجه به من این قدرت را می‌دهد که پروژه‌هایی را از نطفه ایده تا بلوغ پیاده‌سازی و فراتر از آن، در مسیر رشد و تعالی هدایت کنم.
-    </p>
+    </p><h3 align="center" style="color: #1a2a6c; margin: 30px 0 25px; padding-bottom: 15px; border-bottom: 3px solid #3498db; font-size: 1.8rem; font-weight: 600; position: relative;">
+  <span style="display: inline-block; position: relative;">
+    چه چیزی مرا متمایز می‌کند؟
+    <span style="position: absolute; bottom: -18px; left: 0; width: 50px; height: 4px; background: linear-gradient(90deg, #3498db, #1a2a6c); border-radius: 2px;"></span>
+  </span>
+</h3>
 
-    <h3 style="color: #1a2a6c; margin-top: 30px; margin-bottom: 20px; border-bottom: 2px solid #3498db; padding-bottom: 8px; font-size: clamp(1.3rem, 3vw, 1.5rem);">چه چیزی مرا متمایز می‌کند؟</h3>
-    <ul style="list-style-type: none; padding-right: 0;">
-      <li style="margin-bottom: 15px; display: flex; align-items: flex-start;"><span style="font-size: 1.6rem; margin-left: 12px; color: #3498db;">🚀</span> <strong>نگرش جامع (Holistic Vision):</strong> توانایی درک تصویر کلان، از ظرافت‌های فنی پیاده‌سازی تا استراتژی‌های بلندمدت بازاریابی و ریشه‌دواندن در سئو.</li>
-      <li style="margin-bottom: 15px; display: flex; align-items: flex-start;"><span style="font-size: 1.6rem; margin-left: 12px; color: #e67e22;">💡</span> <strong>ذهنیت حل مسئله (Solution-Oriented Mindset):</strong> شیفته چالش‌های پیچیده و مهندسی راه‌حل‌های خلاقانه و پایدار. هر خط کد برای من، نت موسیقی در سمفونی حل یک معماست.</li>
-      <li style="margin-bottom: 15px; display: flex; align-items: flex-start;"><span style="font-size: 1.6rem; margin-left: 12px; color: #9b59b6;">🧠</span> <strong>ادغام هوش مصنوعی (AI Integration Pioneer):</strong> پیشگام در به‌کارگیری هوش مصنوعی و یادگیری ماشین برای خودکارسازی هوشمند و ارتقای فرآیندهای سئو و خلق محتوا.</li>
-      <li style="margin-bottom: 15px; display: flex; align-items: flex-start;"><span style="font-size: 1.6rem; margin-left: 12px; color: #2ecc71;">📈</span> <strong>تخصص دوگانه کمیاب (Dual Expertise):</strong> هم‌افزایی مهارت‌های برنامه‌نویسی فول‌استک با دانش عمیق سئو، منجر به خلق محصولاتی می‌شود که هم محبوب کاربران و هم مورد توجه موتورهای جستجو هستند.</li>
-      <li style="display: flex; align-items: flex-start;"><span style="font-size: 1.6rem; margin-left: 12px; color: #f1c40f;">📚</span> <strong>یادگیرنده مادام‌العمر (Lifelong Learner):</strong> تعهد راسخ به یادگیری مستمر و همگام شدن با جدیدترین امواج تکنولوژی و روندهای صنعت. دنیای دیجیتال یک رودخانه خروشان است و من از شنا در آن لذت می‌برم.</li>
-    </ul>
-
-    <blockquote style="border-right: 5px solid #3498db; padding: 18px 25px; margin: 30px 0; background-color: #ecf5ff; border-radius: 8px 0 0 8px; font-style: italic; color: #2c3e50; box-shadow: 0 4px 8px rgba(0,0,0,0.05);">
-      "من به خلق محصولاتی باور دارم که نه تنها مرهمی بر دردهای امروزند، بلکه برای چالش‌های فردا نیز زره‌پوش و آماده‌اند. زیبایی در کدی است که همچون شعر، خوانا، کارآمد و مقیاس‌پذیر باشد؛ و در استراتژی سئویی است که ریشه‌هایی عمیق و پایدار در اکوسیستم دیجیتال ایجاد کند. رسالت من، بنا نهادن پل‌هایی استوار میان تکنولوژی و نیازهای واقعی انسان‌هاست."
-    </blockquote>
+<div style="display: flex; flex-direction: column; gap: 18px; margin-bottom: 30px;">
+  <div style="display: flex; align-items: flex-start; background: linear-gradient(to right, rgba(52, 152, 219, 0.1), transparent); padding: 15px 20px; border-radius: 10px; border-right: 3px solid #3498db; transition: all 0.3s ease;">
+    <div style="font-size: 1.8rem; margin-left: 10px; margin-right: 20px; color: #3498db; min-width: 40px; text-align: center;">🚀</div>
+    <div>
+      <strong style="color: #1a2a6c; font-size: 1.1rem; display: block; margin-bottom: 5px;">نگرش جامع (Holistic Vision)</strong>
+      <p style="margin: 0; color: #2c3e50; line-height: 1.6;">توانایی درک تصویر کلان، از ظرافت‌های فنی پیاده‌سازی تا استراتژی‌های بلندمدت بازاریابی و ریشه‌دواندن در سئو.</p>
+    </div>
   </div>
+
+  <div style="display: flex; align-items: flex-start; background: linear-gradient(to right, rgba(230, 126, 34, 0.1), transparent); padding: 15px 20px; border-radius: 10px; border-right: 3px solid #e67e22; transition: all 0.3s ease;">
+    <div style="font-size: 1.8rem; margin-left: 10px; margin-right: 20px; color: #e67e22; min-width: 40px; text-align: center;">💡</div>
+    <div>
+      <strong style="color: #1a2a6c; font-size: 1.1rem; display: block; margin-bottom: 5px;">ذهنیت حل مسئله (Solution-Oriented Mindset)</strong>
+      <p style="margin: 0; color: #2c3e50; line-height: 1.6;">شیفته چالش‌های پیچیده و مهندسی راه‌حل‌های خلاقانه و پایدار. هر خط کد برای من، نت موسیقی در سمفونی حل یک معماست.</p>
+    </div>
+  </div>
+
+  <div style="display: flex; align-items: flex-start; background: linear-gradient(to right, rgba(155, 89, 182, 0.1), transparent); padding: 15px 20px; border-radius: 10px; border-right: 3px solid #9b59b6; transition: all 0.3s ease;">
+    <div style="font-size: 1.8rem; margin-left: 10px; margin-right: 20px; color: #9b59b6; min-width: 40px; text-align: center;">🧠</div>
+    <div>
+      <strong style="color: #1a2a6c; font-size: 1.1rem; display: block; margin-bottom: 5px;">ادغام هوش مصنوعی (AI Integration Pioneer)</strong>
+      <p style="margin: 0; color: #2c3e50; line-height: 1.6;">پیشگام در به‌کارگیری هوش مصنوعی و یادگیری ماشین برای خودکارسازی هوشمند و ارتقای فرآیندهای سئو و خلق محتوا.</p>
+    </div>
+  </div>
+
+  <div style="display: flex; align-items: flex-start; background: linear-gradient(to right, rgba(46, 204, 113, 0.1), transparent); padding: 15px 20px; border-radius: 10px; border-right: 3px solid #2ecc71; transition: all 0.3s ease;">
+    <div style="font-size: 1.8rem; margin-left: 10px; margin-right: 20px; color: #2ecc71; min-width: 40px; text-align: center;">📈</div>
+    <div>
+      <strong style="color: #1a2a6c; font-size: 1.1rem; display: block; margin-bottom: 5px;">تخصص دوگانه کمیاب (Dual Expertise)</strong>
+      <p style="margin: 0; color: #2c3e50; line-height: 1.6;">هم‌افزایی مهارت‌های برنامه‌نویسی فول‌استک با دانش عمیق سئو، منجر به خلق محصولاتی می‌شود که هم محبوب کاربران و هم مورد توجه موتورهای جستجو هستند.</p>
+    </div>
+  </div>
+
+  <div style="display: flex; align-items: flex-start; background: linear-gradient(to right, rgba(241, 196, 15, 0.1), transparent); padding: 15px 20px; border-radius: 10px; border-right: 3px solid #f1c40f; transition: all 0.3s ease;">
+    <div style="font-size: 1.8rem; margin-left: 10px; margin-right: 20px; color: #f1c40f; min-width: 40px; text-align: center;">📚</div>
+    <div>
+      <strong style="color: #1a2a6c; font-size: 1.1rem; display: block; margin-bottom: 5px;">یادگیرنده مادام‌العمر (Lifelong Learner)</strong>
+      <p style="margin: 0; color: #2c3e50; line-height: 1.6;">تعهد راسخ به یادگیری مستمر و همگام شدن با جدیدترین امواج تکنولوژی و روندهای صنعت. دنیای دیجیتال یک رودخانه خروشان است و من از شنا در آن لذت می‌برم.</p>
+    </div>
+  </div>
+</div>
+
+<div style="position: relative; margin: 40px 0;">
+  <blockquote style="border-left: 5px solid #3498db; padding: 25px; margin: 0; background: linear-gradient(to right, #f8f9fa, #ffffff); border-radius: 0 8px 8px 0; font-style: italic; color: #2c3e50; box-shadow: 0 5px 15px rgba(0,0,0,0.08); position: relative; overflow: hidden;">
+    <div style="position: absolute; top: 0; left: 0; width: 5px; height: 100%; background: linear-gradient(to bottom, #3498db, #1a2a6c);"></div>
+    <div style="position: relative; z-index: 1;">
+      <p style="margin: 0; font-size: 1.1rem; line-height: 1.8; padding-right: 15px;">
+        "من به خلق محصولاتی باور دارم که نه تنها مرهمی بر دردهای امروزند، بلکه برای چالش‌های فردا نیز زره‌پوش و آماده‌اند. زیبایی در کدی است که همچون شعر، خوانا، کارآمد و مقیاس‌پذیر باشد؛ و در استراتژی سئویی است که ریشه‌هایی عمیق و پایدار در اکوسیستم دیجیتال ایجاد کند. رسالت من، بنا نهادن پل‌هایی استوار میان تکنولوژی و نیازهای واقعی انسان‌هاست."
+      </p>
+    </div>
+    <div style="position: absolute; bottom: 10px; right: 10px; font-size: 2rem; color: rgba(52, 152, 219, 0.1);">❝</div>
+  </blockquote>
 </div>
 
 ---
