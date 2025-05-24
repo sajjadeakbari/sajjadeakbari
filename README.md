@@ -7,23 +7,8 @@
   <p style="font-family: 'Vazirmatn', sans-serif; font-size: clamp(1.1rem, 2.8vw, 1.3rem); color: #57606f; max-width: 800px; margin: 30px auto; line-height: 1.8;">
     به قلمرو دیجیتالی من خوش آمدید! اینجا جایی است که هنر کدنویسی با علم داده‌محور سئو در هم تنیده می‌شود تا تجربه‌های دیجیتال نوآورانه، کارآمد و ماندگار خلق شوند.
   </p>
-
+---
   <!-- بهبود ظاهر و چینش دکمه های شبکه های اجتماعی -->
-  <div style="margin-top: 35px; display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-    <a href="https://www.linkedin.com/in/sajjadakbariseo" target="_blank" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/LinkedIn-SajjadAkbariSEO-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=0077B5" alt="LinkedIn">
-    </a>
-    <a href="https://twitter.com/sajjad_akbari" target="_blank" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/Twitter-@sajjad_akbari-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2&color=1DA1F2" alt="Twitter">
-    </a>
-    <a href="https://t.me/seokar" target="_blank" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/Telegram-@seokar-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0&color=2CA5E0" alt="Telegram">
-    </a>
-    <a href="mailto:sajjad.akbari.dev@gmail.com" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/Email_Me-sajjad.akbari.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=D14836" alt="Gmail">
-    </a>
-  </div>
-</div>
 
 ---
 
@@ -34,25 +19,22 @@
     <p align="right" style="line-height: 1.9; color: #34495e; margin-bottom: 30px;">
     شور و اشتیاق من در نقطه تلاقی کدنویسی پاک (Clean Code)، معماری نرم‌افزار مقیاس‌پذیر و استراتژی‌های سئوی آینده‌نگر شکوفا می‌شود. عمیقاً باور دارم که یک محصول دیجیتال موفق، فراتر از کارایی فنی بی‌عیب و نقص، باید بتواند با مخاطبان خود به زبان آن‌ها سخن گفته و در کهکشان وسیع وب <strong>به آسانی کشف و تجربه شود</strong>. این نگرش ۳۶۰ درجه به من این قدرت را می‌دهد که پروژه‌هایی را از نطفه ایده تا بلوغ پیاده‌سازی و فراتر از آن، در مسیر رشد و تعالی هدایت کنم.
     </p>
+<h3 style="color: #1a2a6c; margin-top: 30px; margin-bottom: 25px; border-bottom: 3px solid #3498db; padding-bottom: 10px; font-size: clamp(1.4rem, 3.5vw, 1.6rem); font-weight: 700;">چه چیزی مرا متمایز می‌کند؟</h3>
+<ul style="list-style-type: none; padding-right: 0;">
+  <li style="margin-bottom: 20px; display: flex; align-items: flex-start;"><span style="font-size: 2rem; margin-left: 15px; color: #3498db;">💡</span> <div style="flex-grow: 1;"><strong>نگرش جامع (Holistic Vision):</strong> توانایی درک تصویر کلان, از ظرافت‌های فنی پیاده‌سازی تا استراتژی‌های بلندمدت بازاریابی و ریشه‌دواندن در سئو.</div></li>
+  <li style="margin-bottom: 20px; display: flex; align-items: flex-start;"><span style="font-size: 2rem; margin-left: 15px; color: #e67e22;">🧩</span> <div style="flex-grow: 1;"><strong>ذهنیت حل مسئله (Solution-Oriented Mindset):</strong> شیفته چالش‌های پیچیده و مهندسی راه‌حل‌های خلاقانه و پایدار. هر خط کد برای من, نت موسیقی در سمفونی حل یک معماست.</div></li>
+  <li style="margin-bottom: 20px; display: flex; align-items: flex-start;"><span style="font-size: 2rem; margin-left: 15px; color: #9b59b6;">🧠</span> <div style="flex-grow: 1;"><strong>ادغام هوش مصنوعی (AI Integration Pioneer):</strong> پیشگام در به‌کارگیری هوش مصنوعی و یادگیری ماشین برای خودکارسازی هوشمند و ارتقای فرآیندهای سئو و خلق محتوا.</div></li>
+  <li style="margin-bottom: 20px; display: flex; align-items: flex-start;"><span style="font-size: 2rem; margin-left: 15px; color: #2ecc71;">📈</span> <div style="flex-grow: 1;"><strong>تخصص دوگانه کمیاب (Dual Expertise):</strong> هم‌افزایی مهارت‌های برنامه‌نویسی فول‌استک با دانش عمیق سئو, منجر به خلق محصولاتی می‌شود که هم محبوب کاربران و هم مورد توجه موتورهای جستجو هستند.</div></li>
+  <li style="display: flex; align-items: flex-start;"><span style="font-size: 2rem; margin-left: 15px; color: #f1c40f;">📚</span> <div style="flex-grow: 1;"><strong>یادگیرنده مادام‌العمر (Lifelong Learner):</strong> تعهد راسخ به یادگیری مستمر و همگام شدن با جدیدترین امواج تکنولوژی و روندهای صنعت. دنیای دیجیتال یک رودخانه خروشان است و من از شنا در آن لذت می‌برم.</div></li>
+</ul>
 
-    <h3 style="color: #1a2a6c; margin-top: 30px; margin-bottom: 25px; border-bottom: 3px solid #3498db; padding-bottom: 10px; font-size: clamp(1.4rem, 3.5vw, 1.6rem); font-weight: 700;">چه چیزی مرا متمایز می‌کند؟</h3>
-    <ul style="list-style-type: none; padding-right: 0;">
-      <li style="margin-bottom: 20px; display: flex; align-items: flex-start;"><span style="font-size: 2rem; margin-left: 15px; color: #3498db;">💡</span> <div style="flex-grow: 1;"><strong>نگرش جامع (Holistic Vision):</strong> توانایی درک تصویر کلان, از ظرافت‌های فنی پیاده‌سازی تا استراتژی‌های بلندمدت بازاریابی و ریشه‌دواندن در سئو.</div></li>
-      <li style="margin-bottom: 20px; display: flex; align-items: flex-start;"><span style="font-size: 2rem; margin-left: 15px; color: #e67e22;">🧩</span> <div style="flex-grow: 1;"><strong>ذهنیت حل مسئله (Solution-Oriented Mindset):</strong> شیفته چالش‌های پیچیده و مهندسی راه‌حل‌های خلاقانه و پایدار. هر خط کد برای من, نت موسیقی در سمفونی حل یک معماست.</div></li>
-      <li style="margin-bottom: 20px; display: flex; align-items: flex-start;"><span style="font-size: 2rem; margin-left: 15px; color: #9b59b6;">🧠</span> <div style="flex-grow: 1;"><strong>ادغام هوش مصنوعی (AI Integration Pioneer):</strong> پیشگام در به‌کارگیری هوش مصنوعی و یادگیری ماشین برای خودکارسازی هوشمند و ارتقای فرآیندهای سئو و خلق محتوا.</div></li>
-      <li style="margin-bottom: 20px; display: flex; align-items: flex-start;"><span style="font-size: 2rem; margin-left: 15px; color: #2ecc71;">📈</span> <div style="flex-grow: 1;"><strong>تخصص دوگانه کمیاب (Dual Expertise):</strong> هم‌افزایی مهارت‌های برنامه‌نویسی فول‌استک با دانش عمیق سئو, منجر به خلق محصولاتی می‌شود که هم محبوب کاربران و هم مورد توجه موتورهای جستجو هستند.</div></li>
-      <li style="display: flex; align-items: flex-start;"><span style="font-size: 2rem; margin-left: 15px; color: #f1c40f;">📚</span> <div style="flex-grow: 1;"><strong>یادگیرنده مادام‌العمر (Lifelong Learner):</strong> تعهد راسخ به یادگیری مستمر و همگام شدن با جدیدترین امواج تکنولوژی و روندهای صنعت. دنیای دیجیتال یک رودخانه خروشان است و من از شنا در آن لذت می‌برم.</div></li>
-    </ul>
+<blockquote style="border-right: 6px solid #3498db; padding: 20px 30px; margin: 35px 0; background-color: #eef7ff; border-radius: 10px 0 0 10px; font-style: italic; color: #2c3e50; box-shadow: 0 5px 15px rgba(0,0,0,0.08);">
+  "من به خلق محصولاتی باور دارم که نه تنها مرهمی بر دردهای امروزند، بلکه برای چالش‌های فردا نیز زره‌پوش و آماده‌اند. زیبایی در کدی است که همچون شعر، خوانا، کارآمد و مقیاس‌پذیر باشد؛ و در استراتژی سئویی است که ریشه‌هایی عمیق و پایدار در اکوسیستم دیجیتال ایجاد کند. رسالت من، بنا نهادن پل‌هایی استوار میان تکنولوژی و نیازهای واقعی انسان‌هاست."
+</blockquote>
 
-    <blockquote style="border-right: 6px solid #3498db; padding: 20px 30px; margin: 35px 0; background-color: #eef7ff; border-radius: 10px 0 0 10px; font-style: italic; color: #2c3e50; box-shadow: 0 5px 15px rgba(0,0,0,0.08);">
-      "من به خلق محصولاتی باور دارم که نه تنها مرهمی بر دردهای امروزند، بلکه برای چالش‌های فردا نیز زره‌پوش و آماده‌اند. زیبایی در کدی است که همچون شعر، خوانا، کارآمد و مقیاس‌پذیر باشد؛ و در استراتژی سئویی است که ریشه‌هایی عمیق و پایدار در اکوسیستم دیجیتال ایجاد کند. رسالت من، بنا نهادن پل‌هایی استوار میان تکنولوژی و نیازهای واقعی انسان‌هاست."
-    </blockquote>
-  </div>
-</div>
 
----
 
-## 📊 آمار گیت‌هاب من: نبض فعالیت‌هایم
+## 📊 آمار گیت‌هاب من:
 
 <div align="center" style="margin-top: 30px; display: flex; flex-direction: column; gap: 20px; align-items: center; font-family: 'Vazirmatn', sans-serif;">
   <img src="https://github-readme-stats.vercel.app/api?username=sajjadeakbari&show_icons=true&theme=merko&hide_border=true&include_all_commits=true&count_private=true&card_width=500&border_radius=12&title_color=4a69bd&icon_color=4a69bd&text_color=333&bg_color=f8f9fc" alt="آمار گیت‌هاب سجاد اکبری" style="max-width: 98%; width: 100%; height: auto; border-radius: 12px; box-shadow: 0 8px 20px rgba(0,0,0,0.12);"/>
