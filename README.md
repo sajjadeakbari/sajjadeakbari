@@ -527,6 +527,5 @@ analyzer.export_report_to_html(full_report, "seo_report.html")</code></pre>
   <p>ساخته شده با <span style="color: #e74c3c;">❤️</span> و مقدار زیادی <span style="font-size:1.2em;">☕</span> توسط سجاد اکبری</p>
   <p style="font-style: italic; margin-top: 8px;">"کد برای حل معماهاست، سئو برای آنکه راه‌حل‌ها شنیده شوند."</p>
   <p style="margin-top: 15px; font-size: 0.8rem;">
-    <a href="https://github.com/sajjadeakbari/sajjadeakbari/blob/main/README.md" target="_blank" style="color: #007bff; text-decoration: none;">مشاهده سورس این صفحه در گیت‌هاب</a>
   </p>
 </div>
